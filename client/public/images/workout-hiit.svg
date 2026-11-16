@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#171D18" rx="16"/>
+  <circle cx="300" cy="170" r="85" fill="#272E28"/>
+  <path d="M295 110 L305 110 L320 160 L345 165 L310 195 L320 235 L285 205 L250 225 L265 185 L245 160 L280 155 Z" fill="#A3E635"/>
+  <text x="300" y="315" text-anchor="middle" fill="#F4F4F5" font-family="sans-serif" font-size="22" font-weight="700">HIIT Conditioning</text>
+  <text x="300" y="345" text-anchor="middle" fill="#929B93" font-family="sans-serif" font-size="15">Maximum Calorie Burn</text>
+</svg>
